@@ -14,7 +14,7 @@ export const config = createConfig({
       metadata: {
         name: 'MAQX Presale',
         description: 'Presale dApp for MAQX',
-        url: 'https://maqx-presaleapp.vercel.app',
+        url: 'https://presale.maqx.io',
         icons: ['https://avatars.githubusercontent.com/u/37784886'],
       },
     }),
